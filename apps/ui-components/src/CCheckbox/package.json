@@ -1,0 +1,8 @@
+{
+  "name": "@cogent/c-checkbox",
+  "version": "0.0.0",
+  "main": "CCheckbox.js",
+  "author": "Sabu Shakya",
+  "license": "MIT",
+  "private": true
+}

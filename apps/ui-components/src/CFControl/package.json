@@ -1,0 +1,8 @@
+{
+  "name": "@cogent/c-f-control",
+  "version": "0.0.0",
+  "main": "CFControl.js",
+  "author": "Sabu Shakya",
+  "license": "MIT",
+  "private": true
+}
